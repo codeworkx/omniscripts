@@ -6,7 +6,7 @@ A_TOP=${PWD}
 CUR_DIR=`dirname $0`
 DATE=$(date +%D)
 MACHINE_TYPE=`uname -m`
-OMNI_VERSION=4.4
+OMNI_VERSION=5.0
 
 # Common defines (Arch-dependent)
 case `uname -s` in

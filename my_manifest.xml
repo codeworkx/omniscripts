@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="codeworkx/buildscripts" path="buildscripts" remote="github" revision="android-4.4">
+  <project name="codeworkx/omniscripts" path="buildscripts" remote="github" revision="android-5.0">
     <copyfile dest="build.sh" src="build.sh" />
   </project>
 </manifest>
